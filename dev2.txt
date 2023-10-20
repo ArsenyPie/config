@@ -56,7 +56,6 @@ archive
 !
 !
 interface GigabitEthernet0/0
- description device2 GigabitEthernet
  ip address 192.168.0.2 255.255.255.0
  ip nat outside
  ip virtual-reassembly
